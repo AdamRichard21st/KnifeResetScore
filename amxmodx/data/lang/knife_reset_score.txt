@@ -1,0 +1,5 @@
+[en]
+KNIFE_RESET_SCORE = ^3%s^1 reseted ^3%s^1 score by killing him with knife
+
+[bp]
+KNIFE_RESET_SCORE = ^3%s^1 resetou os pontos de ^3%s^1 ao matá-lo com faca
