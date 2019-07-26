@@ -1,5 +1,5 @@
 # Description
-Whenever a player gets killed by knife, his score (deaths and frags) is reseted to `0/0`.
+Whenever a player gets killed by knife, his score (kills and deaths) is reseted to `0/0`.
 
 # About
 This is a very simple plugin that executes a very simple concept.
