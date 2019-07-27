@@ -12,7 +12,9 @@ First and foremost, your server must to have [amxmodx](https://wiki.alliedmods.n
 
 * Copy `knife_reset_score.txt` dictionary file to `$addons/amxmodx/data/lang` folder in your server.
 * Copy `knife_reset_score.amxx` to `$addons/amxmodx/plugins` folder in your server.
-* Add `knife_reset_score.amxx` line to your `plugins.ini` file located at `addons/amxmodx/configs` folder. [read more](https://wiki.alliedmods.net/Configuring_AMX_Mod_X#Plugins)
+* Add `knife_reset_score.amxx` line to your `plugins.ini` file located at `addons/amxmodx/configs` folder.
+
+[read more](https://wiki.alliedmods.net/Configuring_AMX_Mod_X#Plugins)
 
 # Want to help?
 Feel free to suggest changes or create [pull requests](https://help.github.com/en/articles/about-pull-requests) to this repository, including source changes or dictionary translations improvements/additions.
